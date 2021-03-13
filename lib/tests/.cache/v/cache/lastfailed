@@ -1,0 +1,7 @@
+{
+  "test_ecs_task_status.py::TestEcsStatus::test_context_refreshes_if_stale": true, 
+  "test_ecs_task_status.py::TestEcsStatus::test_non_running_tasks_are_not_available": true, 
+  "test_ecs_task_status.py::TestEcsStatus::test_none_available": true, 
+  "test_ecs_task_status.py::TestEcsStatus::test_old_tasks_are_not_available": true, 
+  "test_ecs_task_status.py::TestEcsStatus::test_running_tasks_are_available": true
+}
